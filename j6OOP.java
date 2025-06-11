@@ -26,7 +26,7 @@ class Calculator{
 public class j6OOP{
     public static void main(String args[]){
         
-        int data = 10;
+        // int data = 10;
 
         // calc is a Reference Variable not an object
         Calculator calc = new Calculator();

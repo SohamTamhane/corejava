@@ -4,6 +4,8 @@ class j2TypeConversionAndCasting{
         byte b = 126;
         int a = 258;
         b = (byte) a;
+        // byte Range - 256
+        // b = 258 % 256;
         System.out.println(b);
 
         // Type Promotion

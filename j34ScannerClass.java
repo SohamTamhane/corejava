@@ -5,5 +5,6 @@ public class j34ScannerClass {
         Scanner sc = new Scanner(System.in);
         int num1 = sc.nextInt();
         System.out.println(num1);
+        sc.close();
     }
 }

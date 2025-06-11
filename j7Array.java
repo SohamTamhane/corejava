@@ -58,5 +58,16 @@ public class j7Array{
             }
             System.out.println();
         }
+
+        // Final Array
+        // we can not make the final array refer to some other array but the data within an array that is made final can be changed/manipulated.   
+        final int arr5[] = new int[4];
+        arr5[0] = 10;
+        System.out.println("Final Array: ");
+        for(int i: arr5){
+            System.out.println(i);
+        }
+        // This Cannot be Done
+        // arr5 = arr1;
     }
 }

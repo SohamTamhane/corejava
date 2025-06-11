@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4e5a60b-e359-4756-babc-6ec1c40b9e46" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/j10StringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/j10StringBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j11Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/j11Static.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j17MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/j17MethodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j1VariablesDatatype.java" beforeDir="false" afterPath="$PROJECT_DIR$/j1VariablesDatatype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j2TypeConversionAndCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/j2TypeConversionAndCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j31CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/j31CustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j34ScannerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/j34ScannerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j39ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/j39ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j3Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/j3Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j6OOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/j6OOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j7Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/j7Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j9Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/j9Strings.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2nz4IXjAk0fO3SCb1A0sNMTmUfF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4e5a60b-e359-4756-babc-6ec1c40b9e46" name="Changes" comment="" />
+      <created>1729962492006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729962492006</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -11,6 +11,10 @@ class Mobile{
         System.out.println("In Static Block");
     }
 
+    static void getName(){
+        System.out.println("Name: " + name);
+    }
+
     // Default Constructor
     public Mobile(){
         brand = "";
@@ -30,18 +34,25 @@ class Mobile{
 }
 
 public class j11Static {
-    public static void main(String args[]) throws ClassNotFoundException{
+    public static void main(String args[]){
 
         // Mobile obj1 = new Mobile();
         // obj1.brand = "Apple";
         // obj1.price = 1500;
+        
         // // Static Variable should be called with className
         // Mobile.name = "Smartname";
         // // obj1.name = "Smartphone";
 
-        Mobile obj1 = new Mobile("Apple", 1300);
-        obj1.show();
+        // Mobile obj1 = new Mobile("Apple", 1300);
+        // obj1.show();
 
-        // Class.forName("Mobile");
+        // try {
+        //     Class.forName("Mobile");
+        // } catch (ClassNotFoundException e) {
+        //     e.printStackTrace();
+        // }
+
+        Mobile.getName();
     }
 }

@@ -16,7 +16,7 @@ class j3Operators{
         System.out.println("num1 * num2: " + res1);
 
         double res2 = num1 / num2;
-        System.out.println("num1 / num2: " + res1);
+        System.out.println("num1 / num2: " + res2);
 
         res1 = num1 % num2;
         System.out.println("num1 % num2: " + res1);

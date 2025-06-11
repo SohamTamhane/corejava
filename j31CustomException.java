@@ -1,10 +1,8 @@
 
 class MyZeroException extends Exception{
-
     public MyZeroException(String string){
         super(string);
     }
-    
 }
 
 public class j31CustomException {
